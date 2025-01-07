@@ -1,0 +1,6 @@
+@MCTwoToFour_HostAddress = http://localhost:5072
+
+GET {{MCTwoToFour_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
