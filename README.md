@@ -22,4 +22,5 @@ Brief Description:
         I. The first statement should tell me if the first number is greater than, less than or equal to the second number.
         II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
-Peer Review:
+Peer Review: Andrew Sayasing
+Nice Work! Everything seems to be in order for what is being asked. Checked Swagger and PostMan and everything works as needed.
